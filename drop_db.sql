@@ -1,0 +1,9 @@
+DROP TABLE IF EXISTS bilet;
+DROP TABLE IF EXISTS klient;
+DROP TABLE IF EXISTS przygotowany_zapasowy_instrument;
+DROP TABLE IF EXISTS wydarzenie;
+DROP TABLE IF EXISTS artysta;
+DROP TABLE IF EXISTS zespol;
+DROP TABLE IF EXISTS instrument;
+DROP TABLE IF EXISTS miejsce_na_koncercie;
+DROP TABLE IF EXISTS sala_koncertowa;
